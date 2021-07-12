@@ -24,3 +24,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+
+google_search_console:
+  verification_file_code: 1234
+
+
