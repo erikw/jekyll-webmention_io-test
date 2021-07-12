@@ -3,8 +3,8 @@ title: Jekyll 3.x.x. Test Site
 email: jekyll@tester.com
 description: >- # this means to ignore newlines until "baseurl:"
   Plain Jekyll installation to test plugin versions
-baseurl: "" 
-url: "https://erikw.github.io/jekyll-3.x.x-test/" 
+baseurl: ""
+url: "https://erikw.github.io/jekyll-3.x.x-test/"
 github_username:  erikw
 
 # Build settings
@@ -19,7 +19,8 @@ exclude:
   - Gemfile*
   - README.md
 
-
+plugins:
+  - jekyll-feed
 
 google_search_console:
   verification_file_code: 1234
