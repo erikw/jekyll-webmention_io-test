@@ -7,7 +7,7 @@ task default: %w[build]
 desc "Build website"
 task :build do
   puts "Building site...".bold
-  Jekyll::Commands::Build.process({})
+  Jekyll::Commands::Build.process(verbose: true)
   #jekyll("build")
 end
 
