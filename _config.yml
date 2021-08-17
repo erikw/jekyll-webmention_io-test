@@ -22,8 +22,7 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-google_search_console_verification_file
+  - jekyll-glossary_tooltip
 
 google_search_console:
   verification_file_code: 1234
-
-
