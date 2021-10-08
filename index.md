@@ -5,4 +5,4 @@
 layout: home
 ---
 
-This is the content of the test site.
+This is the index content of the test site.
