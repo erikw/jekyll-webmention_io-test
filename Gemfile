@@ -10,6 +10,7 @@ end
 
 group :jekyll_themes do
   gem 'minima', '~> 2.0'
+  #gem 'jekyll-remote-theme'
 end
 
 group :jekyll_plugins do

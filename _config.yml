@@ -10,6 +10,7 @@ github_username:  erikw
 # Build settings
 markdown: kramdown
 theme: minima
+#remote_theme: heiswayi/thinkspace
 
 exclude:
   - bin/
@@ -21,6 +22,7 @@ plugins:
   - jekyll-feed
   - jekyll-google_search_console_verification_file
   - jekyll-glossary_tooltip
+# - jekyll-remote-theme
 
 google_search_console:
   verification_file_code: 1234
