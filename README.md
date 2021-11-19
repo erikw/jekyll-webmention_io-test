@@ -1,5 +1,5 @@
-# jekyll-4.x.x-test
-Basic Jekyll 4.x.x test site deployed at https://erikw.github.io/jekyll-4.x.x-test/
+# jekyll-webmention_io-test
+Basic Jekyll 4.x.x test site deployed at https://erikw.github.io/jekyll-webmention_io-test/
 
 ## Setup
 ```console
