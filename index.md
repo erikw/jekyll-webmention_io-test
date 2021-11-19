@@ -6,3 +6,5 @@ layout: page
 ---
 
 This is the index content of the test site.
+
+[2021-07-12-test-post.md](update/2021/07/12/test-post.html)
