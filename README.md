@@ -12,3 +12,5 @@ $ curl -si https://webmention.io/jekyll-webmention-io-test.netlify.app/webmentio
   -d source=https://jekyll-webmention-io-test.netlify.app/update/2021/07/12/test-post.html \
   -d target=https://erikw.me/blog/tech/open-sourcing-my-second-jekyll-plugin-gossary-tooltip/
 ```
+
+then check at https://webmention.io/dashboard logging in with username `https://jekyll-webmention-io-test.netlify.app`.
