@@ -22,7 +22,14 @@ plugins:
   - jekyll-feed
   - jekyll-google_search_console_verification_file
   - jekyll-glossary_tooltip
+  - jekyll-webmention_io
 # - jekyll-remote-theme
 
 google_search_console:
   verification_file_code: 1234
+
+webmentions:
+  username: https://erikw.github.io/jekyll-4.x.x-test
+  pages: true
+  html_proofer: true
+  cache_bad_uris_for: 5
