@@ -4,3 +4,6 @@ _site
 .bundle/
 .jekyll-cache/
 js/JekyllWebmentionIO.js
+
+# Local Netlify folder
+.netlify
