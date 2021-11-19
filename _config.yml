@@ -4,7 +4,7 @@ email: jekyll@tester.com
 description: >- # this means to ignore newlines until "baseurl:"
   Plain Jekyll installation to test plugin versions
 baseurl: ""
-url: "https://erikw.github.io/jekyll-4.x.x-test/"
+url: "https://jekyll-webmention-io-test.netlify.app/"
 github_username:  erikw
 
 # Build settings
